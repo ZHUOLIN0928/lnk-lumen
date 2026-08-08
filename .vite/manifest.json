@@ -66,8 +66,21 @@
       "_framework-BgSIrAUN.js"
     ]
   },
+  "app/download/download-selector.tsx": {
+    "file": "_next/static/chunks/download-selector-BudvMAcd.js",
+    "name": "download-selector",
+    "src": "app/download/download-selector.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/download-selector.A9SH2dCY.css"
+    ]
+  },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-B1wncY-6.js",
+    "file": "_next/static/chunks/layout-segment-context-CTS_1Grg.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -78,7 +91,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Bp4DTwE2.js",
+    "file": "_next/static/chunks/index-DyohwSpZ.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -92,6 +105,7 @@
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/frame.tsx",
       "app/components/recite-stage.tsx",
+      "app/download/download-selector.tsx",
       "app/components/feedback-form.tsx",
       "app/components/home-mark.tsx"
     ]
