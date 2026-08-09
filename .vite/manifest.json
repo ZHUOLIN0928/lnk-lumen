@@ -1,15 +1,4 @@
 {
-  "../../../workspaces/marketing-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-DtfyRQQa.js",
-    "name": "layout-segment-context",
-    "src": "../../../workspaces/marketing-site/node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-BgSIrAUN.js"
-    ]
-  },
   "_framework-BgSIrAUN.js": {
     "file": "_next/static/chunks/framework-BgSIrAUN.js",
     "name": "framework",
@@ -21,22 +10,12 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
-  "_scaffold-CscA4KJl.js": {
-    "file": "_next/static/chunks/scaffold-CscA4KJl.js",
+  "_scaffold-DsTrQgbq.js": {
+    "file": "_next/static/chunks/scaffold-DsTrQgbq.js",
     "name": "scaffold"
   },
-  "app/components/feedback-form.tsx": {
-    "file": "_next/static/chunks/feedback-form-DXh0vYJi.js",
-    "name": "feedback-form",
-    "src": "app/components/feedback-form.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-BgSIrAUN.js"
-    ]
-  },
   "app/components/frame.tsx": {
-    "file": "_next/static/chunks/frame-BePEt1i9.js",
+    "file": "_next/static/chunks/frame-B-_8bEm-.js",
     "name": "frame",
     "src": "app/components/frame.tsx",
     "isDynamicEntry": true,
@@ -46,7 +25,7 @@
     ]
   },
   "app/components/home-mark.tsx": {
-    "file": "_next/static/chunks/home-mark-B_8z1ePa.js",
+    "file": "_next/static/chunks/home-mark-CgSjUnj8.js",
     "name": "home-mark",
     "src": "app/components/home-mark.tsx",
     "isDynamicEntry": true,
@@ -56,29 +35,40 @@
     ]
   },
   "app/components/recite-stage.tsx": {
-    "file": "_next/static/chunks/recite-stage-CMYHtxvS.js",
+    "file": "_next/static/chunks/recite-stage-C0jOcgzu.js",
     "name": "recite-stage",
     "src": "app/components/recite-stage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_scaffold-CscA4KJl.js",
+      "_scaffold-DsTrQgbq.js",
       "_framework-BgSIrAUN.js"
     ]
   },
   "app/components/scaffold-ladder.tsx": {
-    "file": "_next/static/chunks/scaffold-ladder-yV3uNox3.js",
+    "file": "_next/static/chunks/scaffold-ladder-CjCDsbc7.js",
     "name": "scaffold-ladder",
     "src": "app/components/scaffold-ladder.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_scaffold-CscA4KJl.js",
+      "_scaffold-DsTrQgbq.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-BazGmROx.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
       "_framework-BgSIrAUN.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CD1qxcUa.js",
+    "file": "_next/static/chunks/index-CM62ks2v.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -87,12 +77,11 @@
       "_framework-BgSIrAUN.js"
     ],
     "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
       "app/components/scaffold-ladder.tsx",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/frame.tsx",
       "app/components/recite-stage.tsx",
-      "virtual:vinext-app-browser-entry",
-      "../../../workspaces/marketing-site/node_modules/vinext/dist/shims/layout-segment-context.js",
-      "app/components/feedback-form.tsx",
       "app/components/home-mark.tsx"
     ]
   }
