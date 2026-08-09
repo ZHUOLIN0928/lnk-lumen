@@ -10,12 +10,22 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
-  "_scaffold-DsTrQgbq.js": {
-    "file": "_next/static/chunks/scaffold-DsTrQgbq.js",
+  "_scaffold-CscA4KJl.js": {
+    "file": "_next/static/chunks/scaffold-CscA4KJl.js",
     "name": "scaffold"
   },
+  "app/components/feedback-form.tsx": {
+    "file": "_next/static/chunks/feedback-form--5S6CBUB.js",
+    "name": "feedback-form",
+    "src": "app/components/feedback-form.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
   "app/components/frame.tsx": {
-    "file": "_next/static/chunks/frame-B-_8bEm-.js",
+    "file": "_next/static/chunks/frame-BePEt1i9.js",
     "name": "frame",
     "src": "app/components/frame.tsx",
     "isDynamicEntry": true,
@@ -25,7 +35,7 @@
     ]
   },
   "app/components/home-mark.tsx": {
-    "file": "_next/static/chunks/home-mark-CgSjUnj8.js",
+    "file": "_next/static/chunks/home-mark-B_8z1ePa.js",
     "name": "home-mark",
     "src": "app/components/home-mark.tsx",
     "isDynamicEntry": true,
@@ -35,29 +45,29 @@
     ]
   },
   "app/components/recite-stage.tsx": {
-    "file": "_next/static/chunks/recite-stage-C0jOcgzu.js",
+    "file": "_next/static/chunks/recite-stage-CMYHtxvS.js",
     "name": "recite-stage",
     "src": "app/components/recite-stage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_scaffold-DsTrQgbq.js",
+      "_scaffold-CscA4KJl.js",
       "_framework-BgSIrAUN.js"
     ]
   },
   "app/components/scaffold-ladder.tsx": {
-    "file": "_next/static/chunks/scaffold-ladder-CjCDsbc7.js",
+    "file": "_next/static/chunks/scaffold-ladder-yV3uNox3.js",
     "name": "scaffold-ladder",
     "src": "app/components/scaffold-ladder.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_scaffold-DsTrQgbq.js",
+      "_scaffold-CscA4KJl.js",
       "_framework-BgSIrAUN.js"
     ]
   },
   "app/components/site-analytics.tsx": {
-    "file": "_next/static/chunks/site-analytics-BDWmOk9N.js",
+    "file": "_next/static/chunks/site-analytics-D11ac0Bn.js",
     "name": "site-analytics",
     "src": "app/components/site-analytics.tsx",
     "isDynamicEntry": true,
@@ -67,7 +77,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CIhlxYx3.js",
+    "file": "_next/static/chunks/layout-segment-context-CJM4FyAK.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -78,7 +88,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-B8BmiVnM.js",
+    "file": "_next/static/chunks/index-vSiKu-WH.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -92,6 +102,7 @@
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/frame.tsx",
       "app/components/recite-stage.tsx",
+      "app/components/feedback-form.tsx",
       "app/components/home-mark.tsx",
       "app/components/site-analytics.tsx"
     ]
