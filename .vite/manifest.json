@@ -1,6 +1,6 @@
 {
   "../../../workspaces/marketing-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-BwQgyWvZ.js",
+    "file": "_next/static/chunks/layout-segment-context-CPxAMJ43.js",
     "name": "layout-segment-context",
     "src": "../../../workspaces/marketing-site/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -36,7 +36,7 @@
     ]
   },
   "app/components/frame.tsx": {
-    "file": "_next/static/chunks/frame-C7ViAZMd.js",
+    "file": "_next/static/chunks/frame-BGCAl7aF.js",
     "name": "frame",
     "src": "app/components/frame.tsx",
     "isDynamicEntry": true,
@@ -78,7 +78,7 @@
     ]
   },
   "app/components/site-analytics.tsx": {
-    "file": "_next/static/chunks/site-analytics-sJYvd7NU.js",
+    "file": "_next/static/chunks/site-analytics-D5SgieHO.js",
     "name": "site-analytics",
     "src": "app/components/site-analytics.tsx",
     "isDynamicEntry": true,
@@ -88,7 +88,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-BnnvZAGx.js",
+    "file": "_next/static/chunks/index-CG_LO030.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
